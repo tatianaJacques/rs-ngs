@@ -48,3 +48,7 @@ fabric.properties
 #private
 
 /protected
+/assets
+.idea/
+.idea
+.idea/*
